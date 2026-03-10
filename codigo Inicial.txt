@@ -2,3 +2,4 @@ def on_on_chat():
     agent.teleport_to_player()
     agent.move(FORWARD, 1)
 player.on_chat("Teste", on_on_chat)
+Player alteraçao 
